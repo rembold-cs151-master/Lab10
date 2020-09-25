@@ -19,6 +19,9 @@ def simplify_string():
 
 if __name__ == '__main__':
     string = input('Enter your desired string: ')
-    simple_string = simplify_string(string)
-    print("The simplified string is:", simple_string)
-    print("It is", "not"*(not is_simple_palindrome(simple_string)), "a palindrome!")
+    print("It is " + "not "*(not is_simple_palindrome(string)) + "a simple palindrome!")
+
+    # Uncomment once below you have simplify_string up and running
+    # simple_string = simplify_string(string)
+    # print("The simplified string is:", simple_string)
+    # print("It is " + "not "*(not is_simple_palindrome(simple_string)) + "a sentence palindrome!")
