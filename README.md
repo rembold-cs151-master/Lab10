@@ -1,4 +1,4 @@
-# Lab 10
+# Lab 11: Palindromic Sentences
 
 In this lab you'll look to write a few functions to help you determine if a particular sentence or phrase is a palindrome if punctuation, whitespace, and capitalization is ignored.
 
