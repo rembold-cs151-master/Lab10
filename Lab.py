@@ -1,4 +1,3 @@
-# File: Lab11.py
 
 """
 Program to check to see if a sentence or phrase

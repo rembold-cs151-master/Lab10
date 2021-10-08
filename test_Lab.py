@@ -1,7 +1,7 @@
-# Autotests for Lab 10
+# Autotests for Lab 8
 
 import pytest
-from Lab11 import is_simple_palindrome, simplify_string, is_sentence_palindrome
+from Lab import is_simple_palindrome, simplify_string, is_sentence_palindrome
 
 class Test_is_simple_palindrome:
     def test_returns_something(self):
